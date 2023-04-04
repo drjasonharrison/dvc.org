@@ -97,7 +97,7 @@
     "reset-css": "^5.0.1",
     "s3-client": "^4.4.2",
     "scroll": "^3.0.1",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.0",
     "slick-carousel": "^1.8.1",
     "title-case": "^3.0.3",
     "typed.js": "^2.0.12",
